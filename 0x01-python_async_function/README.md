@@ -18,6 +18,7 @@ At the end of this project, we are expected to be know:
 
 ## Tasks
 | Files | Description |
+| -------- | --------- |
 | `0-basic_async_syntax.py` | asynchronous coroutine that takes in an integer argument |
 | `1-concurrent_coroutines.py` | async routine called that takes in 2 int arguments |
 | 2-measure_runtime.py` | function that measures the total execution time | 
